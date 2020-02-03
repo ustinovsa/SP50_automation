@@ -3,10 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Dropbox/vkr/VKR/.git/config</file>
             <file>file:/D:/Dropbox/vkr/VKR/web/WEB-INF/pages/calculations/tpc.jsp</file>
-            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/helpers/HumidityMode.java</file>
             <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/helpers/humidityModeCheck.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/ColdPeriod.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/helpers/EnclosingStructure.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/ColdPeriod_1.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/HumidityConditions.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/AverageMonthAndAnnualTemp.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/Maximum1dTempAmplitudeAtJuly.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/helpers/HumidityMode.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/.git/config</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/AverageMonthAndAnnualPressure.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/helpers/BaseResistRequired.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/WarmPeriod.java</file>
+            <file>file:/D:/Dropbox/vkr/VKR/src/java/ru/vkr/entities/Country.java</file>
         </group>
     </open-files>
 </project-private>
